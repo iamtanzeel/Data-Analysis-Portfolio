@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio
 The projects done in the Data Analysis uses __Python__ as programming language, libraries like __Pandas__ and __Numpy__ fro data cleaning and data manipulation and __Matplotlib__ and __Seaborn__ for Data Visualization. The IDE used is __Jupyter Notebook__. The Technical skills used in these projects include __Data Scrapping, Data wrangling, Data cleaning, EDA and Data Visualization.__
 
-## [Project 1: Analysis of own chess games from chess.com](https://github.com/iamtanzeel/Data-Analysis-Portfolio/tree/main/chess.com)
+## [Project 1: Engaging in the analysis of my personal chess games recorded on chess.com](https://github.com/iamtanzeel/Data-Analysis-Portfolio/tree/main/chess.com)
 
 * The [data](https://docs.google.com/spreadsheets/d/1l3UhsFfxbSxXTjWurQQG7JKZE0h2ko9wG2tnPSZ3ytE/edit?usp=sharing) was scrapped using __Selenium__ from my profile at chess.com.
 * The dataset consists of 500 recently played games.
